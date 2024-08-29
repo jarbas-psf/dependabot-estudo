@@ -12,9 +12,6 @@
     "build": "nest build"
   },
   "dependencies": {
-    "@gupy/datadog-tracer": "^6.0.0",
-    "@gupy/nest-audit-trail": "^0.0.1",
-    "@gupy/unleash-client": "^6.0.0",
     "@nestjs/axios": "^3.0.2",
     "@nestjs/common": "^10.3.1",
     "@nestjs/config": "^3.1.1",
